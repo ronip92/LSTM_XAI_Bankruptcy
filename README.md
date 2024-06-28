@@ -23,6 +23,12 @@ This project involves building and comparing different models for bankruptcy pre
 - Jupyter Notebook
 - Required libraries: pandas, numpy, scikit-learn, keras, shap, tensorflow==1.14.0
 
+## Getting the Data
+
+The dataset used for this project can be downloaded from the following Google Drive link:
+
+- [Download Dataset](https://drive.google.com/file/d/11f1jqO_-kWuGsklK61uJyqf_g_dVzEt6/view?usp=sharing)
+
 ### Usage
 
 1. **LSTM Model Training and Testing**:
