@@ -12,8 +12,8 @@ This project involves building and comparing different models for bankruptcy pre
 1. **LSTM_Bankruptcy_Final.ipynb**: This notebook contains the code for training and testing the LSTM model.
 2. **LSTM Bankruptcy Model Compare_Final.ipynb**: This notebook includes the code for training and testing LDA, LR, and RF models.
 3. **LSTM_SHAP_Bankruptcy_Final.ipynb**: This notebook contains the SHAP analysis of the LSTM model.
-4. **alldata36.xlsx**: The dataset used for training and testing the models.
-5. **LSTM_Model_72_Q36.h5**: The trained LSTM model saved in H5 format.
+4. **sampled_10_percent.csv**: The example dataset used for training and testing the models.
+5. **LSTM_Model_72_Q36.h5**: Our original trained LSTM model saved in H5 format.
    
 ## Getting Started
 
