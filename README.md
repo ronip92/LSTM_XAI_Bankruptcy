@@ -27,7 +27,7 @@ This project involves building and comparing different models for bankruptcy pre
 
 The example dataset used for this project can be downloaded from the following Google Drive link (10% of original dataset) and we rename original name of our feature with X1, X2,X.....:
 
-- [Download Dataset] (https://drive.google.com/file/d/1CYNhKvNkQYZ55GPYuLZ4y_lLxTNafi3s/view?usp=sharing)
+- [Download Dataset](https://drive.google.com/file/d/1CYNhKvNkQYZ55GPYuLZ4y_lLxTNafi3s/view?usp=sharing)
 
 ### Usage
 
