@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+keras
+shap
+tensorflow==1.14.0
