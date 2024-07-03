@@ -19,15 +19,15 @@ This project involves building and comparing different models for bankruptcy pre
 
 ### Prerequisites
 
-- Python 3.x
-- Jupyter Notebook
-- Required libraries: pandas, numpy, scikit-learn, keras, shap, tensorflow==1.14.0
+Before you begin, ensure you have met the following requirements:
+1. Python Environment: Make sure you have Python installed. You can download it from python.org.
+2. Use the requirements.txt file to install all necessary packages.
 
 ## Getting the Data
 
 The example dataset used for this project can be downloaded from the following Google Drive link (10% of original dataset) and we rename original name of our feature with X1, X2,X.....:
 
-- [Download Dataset](https://drive.google.com/file/d/1CYNhKvNkQYZ55GPYuLZ4y_lLxTNafi3s/view?usp=sharing)
+- [Download Dataset]([https://drive.google.com/file/d/1CYNhKvNkQYZ55GPYuLZ4y_lLxTNafi3s/view?usp=sharing](https://drive.google.com/file/d/1CYNhKvNkQYZ55GPYuLZ4y_lLxTNafi3s/view?usp=sharing))
 
 ### Usage
 
